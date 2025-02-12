@@ -53,5 +53,5 @@ Agora, em 2025, sigo buscando crescer e aprender cada vez mais na carreira. Atua
 
 <h2>Contribs</h2>
 
-![snake animation](https://github.com/LetyciaOliveira/LetyciaOliveira/blob/output/github-contribution-grid-snake.svg)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LetyciaOliveira)](https://github.com/LetyciaOliveira/github-contribution-stats/)
 
