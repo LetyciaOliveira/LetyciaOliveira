@@ -1,12 +1,14 @@
 
-<h1>Hi 😊</h1>
+<h1>Bem-vindo(a) ao meu GitHub! 😊</h1>
 
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/letycia-oliveira-1541381a5/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](http://wa.me/551952430901)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/l_amaterasu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:letyciaosilveira@gmail.com)
 
-<p>Apaixonada por aprender e sempre em busca de novos desafios! Tenho 2 anos de experiência como desenvolvedora e realizo análises na área de bioinformática. Sou fã de jogos, RPGs e, claro, Senhor dos Anéis — melhor trilogia de todos os tempos! 💚.</p>
+<h2>Who is Letycia?</h2>
+<p>Olá! meu nome é Letycia, estou cursando Sistemas de Informação pela Fmu, Além disso estou me aprofundando na área da tecnologia com cursos de Cibersegurança e Programação.
+<p>Sou apaixonada por aprender e sempre em busca de novos desafios! Tenho 2 anos de experiência como desenvolvedora e realizo análises na área de bioinformática. Sou fã de jogos, RPGs e, claro, Senhor dos Anéis — melhor trilogia de todos os tempos! 💚.</p>
 
 <h2>Tools & Technologies</h2>
 
