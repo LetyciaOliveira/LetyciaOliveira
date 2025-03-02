@@ -28,31 +28,6 @@
 <br/>
 <br/>
 
-<h2>History</h2>
-
-<details>
-<summary>Click to expand!</summary>
-<br/>
-Meu nome vocês provavelmente já sabem (afinal, estão na minha página do GitHub), mas achei legal contar um pouco mais da minha história aqui!
-
-Quem visita meu perfil no LinkedIn costuma se perguntar: "Como uma biomédica está dizendo que gosta de JavaScript e quer programar?". Pois é! Em meados de 2019, iniciei minha graduação em Biomedicina. Como sou apaixonada por pesquisa clínica, minha ideia era seguir nessa área e me aprofundar em pesquisas dentro da Biomedicina.
-
-Em 2020, assisti a uma palestra sobre Bioinformática. Na época, eu trabalhava como líder em um laboratório e buscava uma área para me especializar. Foi mágico conhecer a Bioinformática! No mesmo dia, enviei um e-mail para o palestrante, o Professor Robson, dizendo o quanto eu queria aprender e perguntando se havia vaga na sua turma de iniciação científica. Ele, sendo uma pessoa incrível, me acolheu como aluna e me apresentou aos encontros do grupo. Foi ali que comecei a aprender a linguagem R.
-
-Em 2021, entrei para um grupo de mestrandos da Unifesp orientados pelo Professor Cleber. Comecei a ajudar médicos que estavam desenvolvendo suas teses, realizando análises de Bioinformática, pesquisando artigos e participando das discussões sobre o tema. Esse foi um ano muito especial, pois tive a oportunidade de ministrar duas aulas para os alunos da Unifesp e da Uninove, abordando temas como hipotireoidismo (tema da minha iniciação científica) e o algoritmo Random Forest.
-
-Em 2022, recebi um convite para participar de um projeto com estudantes de mestrado do Uruguai. O projeto consistia em treinar um algoritmo para identificar malformações em ossos do maxilar.
-
-Já em 2023, decidi me arriscar em uma mudança de área. Percebi que gostava muito de programar em R e pensei: "Por que não aprender outras linguagens?". Estudei por conta própria — nem sempre do melhor jeito, mas entendi que, para melhorar, precisava conhecer o mercado. Foi então que entrei como desenvolvedora júnior na Ativa.ai. Foi uma experiência de sobrevivência (rs!), pois não havia nenhum sênior para me orientar, e eu era uma desenvolvedora que só conhecia R, com vários projetos na mesa. Foquei muito em JavaScript e APIs e, com muito estudo, consegui desenvolver dashboards, automatizações e relatórios para a equipe.
-
-Em 2024, percebi que precisava de uma orientação mais estruturada e decidi buscar um ambiente onde pudesse aprender com profissionais mais experientes. Foi quando entrei na Boreal. Lá, aprendi muito sobre outras linguagens, organização de código e como me planejar para entregar as demandas de forma mais eficiente. Foi um momento de muito crescimento e estudo.
-
-Agora, em 2025, sigo buscando crescer e aprender cada vez mais na carreira. Atualmente, trabalho com PHP e JavaScript e estou me apaixonando por cibersegurança. Sigo fazendo cursos, tanto relacionados à programação quanto à certificação Google para cibersegurança, e procuro me desenvolver continuamente.
-
-</details>
-<br/>
-<br/>
-
 <h2>Contribs</h2>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LetyciaOliveira)](https://github.com/LetyciaOliveira/github-contribution-stats/)
