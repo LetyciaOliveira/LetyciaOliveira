@@ -16,6 +16,7 @@ class Skills extends Desenvolvedor {
 class Comunidades extends Desenvolvedor {
    nome_comunidade_python = "CodAqui";
    nome_comunidade_bioinformatica = "BioPyLadies";
+   nome_comunidade_pesquisa = "Centro de Apoio à Pesquisa Biomédica de Nova Geração";
 }
 
 class Aprendizado extends Desenvolvedor {
